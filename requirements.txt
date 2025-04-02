@@ -1,2 +1,0 @@
-cloudscraper==1.2.58
-argparse==1.4.0
